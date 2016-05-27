@@ -1,0 +1,18 @@
+= Cheatsheets
+
+[[IrcOptions]]
+== IrcOptions
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[channels]]`channels`|`Array of String`|-
+|[[host]]`host`|`String`|-
+|[[name]]`name`|`String`|-
+|[[nickServPassword]]`nickServPassword`|`String`|-
+|[[port]]`port`|`Number (int)`|-
+|[[socketTimeout]]`socketTimeout`|`Number (int)`|-
+|===
+
